@@ -1,0 +1,11 @@
+{
+  "name": "hello_world_express",
+  "version": "1.0.0",
+  "description": "example hello world app in express",
+  "main": "app.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
