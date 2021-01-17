@@ -1,6 +1,7 @@
 # Hello Express
 
 This is a simple example app using the Express web framework for Node.js.
+Used to demo Node, Yarn, Express, etc. for a friend.
 
 I basically just annotated the [example from the official docs](http://expressjs.com/en/starter/hello-world.html) with some
 comments, and expanded the javascript syntax to be more obvious.
