@@ -21,7 +21,7 @@ Other files in this repo:
 - `yarn.lock` is another file managed by Yarn. It complements `package.json` and you pretty much never have to look at it.
 
 ## TLDR
-
+- (Assume Node and Yarn installed)
 - `git checkout git@github.com:brendantang/hello_world_express.git`
 - `cd hello_world_express`
 - `yarn` (short for `yarn install`)
